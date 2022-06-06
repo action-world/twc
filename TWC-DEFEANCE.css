@@ -1,0 +1,31 @@
+ .u-section-1 {
+  background-image: url("images/TWCWEBSITEFA-17.png");
+  min-height: 100vh;
+} .u-section-2 {
+  background-image: url("images/TWCWEBSITEFA-181.png");
+  min-height: 1556px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-2 {
+    min-height: 1010px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-2 {
+    min-height: 710px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-2 {
+    min-height: 464px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-2 {
+    min-height: 191px;
+  }
+}

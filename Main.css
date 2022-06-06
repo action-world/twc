@@ -1,0 +1,445 @@
+ .u-section-1 {
+  min-height: 1123px;
+}
+
+.u-section-1 .u-image-1 {
+  height: 1174px;
+  width: 1529px;
+  margin: -52px auto 0 calc(((100% - 1140px) / 2) + -189px);
+}
+
+.u-section-1 .u-image-2 {
+  height: 1174px;
+  width: 1529px;
+  margin: -1177px auto 4px calc(((100% - 1140px) / 2) + -178px);
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 1132px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 798px;
+    width: 1039px;
+    margin-top: 334px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-image-2 {
+    height: 834px;
+    width: 1086px;
+    margin-top: -834px;
+    margin-bottom: 0;
+    margin-left: calc(((100% - 940px) / 2) + -96px);
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 963px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 553px;
+    width: 720px;
+    margin-left: calc(((100% - 720px) / 2));
+  }
+
+  .u-section-1 .u-image-2 {
+    height: 553px;
+    width: 720px;
+    margin-top: -589px;
+    margin-left: calc(((100% - 720px) / 2));
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 825px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 415px;
+    width: 540px;
+    margin-left: calc(((100% - 540px) / 2));
+  }
+
+  .u-section-1 .u-image-2 {
+    height: 415px;
+    width: 540px;
+    margin-top: -451px;
+    margin-left: calc(((100% - 540px) / 2));
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 671px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 261px;
+    width: 340px;
+    margin-left: calc(((100% - 340px) / 2));
+  }
+
+  .u-section-1 .u-image-2 {
+    height: 261px;
+    width: 340px;
+    margin-top: -297px;
+    margin-left: calc(((100% - 340px) / 2));
+  }
+} .u-section-2 {
+  min-height: 100vh;
+  background-image: url("images/TWCWEBSITEFA-12.png");
+  background-position: 50% 50%;
+}
+
+@media (max-width: 991px) {
+   .u-section-2 {
+    min-height: 686px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-2 {
+    min-height: 515px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-2 {
+    min-height: 324px;
+  }
+} .u-section-3 {
+  background-image: url("images/TWCWEBSITEFA-05.png");
+  min-height: 2149px;
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-image-1 {
+  height: 2148px;
+  width: 1208px;
+  margin: 1px auto;
+}
+
+@media (max-width: 1199px) {
+   .u-section-3 {
+    min-height: 1296px;
+  }
+
+  .u-section-3 .u-image-1 {
+    height: 2205px;
+    width: 940px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-3 {
+    min-height: 2206px;
+  }
+
+  .u-section-3 .u-image-1 {
+    height: 2185px;
+    width: 770px;
+    margin-top: 0;
+    margin-right: calc(((100% - 720px) / 2) + -36px);
+    margin-bottom: 21px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-3 {
+    min-height: 1474px;
+  }
+
+  .u-section-3 .u-image-1 {
+    height: 1473px;
+    width: 602px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    margin-right: auto;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-3 {
+    min-height: 1038px;
+  }
+
+  .u-section-3 .u-image-1 {
+    height: 1019px;
+    width: 419px;
+    margin-top: 20px;
+    margin-bottom: 0;
+  }
+} .u-section-4 {
+  background-image: url("images/TWCWEBSITEFA-06.png");
+  background-position: 50% 50%;
+  min-height: 1614px;
+}
+
+.u-section-4 .u-image-1 {
+  height: 1594px;
+  width: 1235px;
+  margin: 9px auto 11px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-4 {
+    min-height: 951px;
+  }
+
+  .u-section-4 .u-image-1 {
+    height: 1214px;
+    width: 940px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-4 {
+    min-height: 667px;
+  }
+
+  .u-section-4 .u-image-1 {
+    height: 930px;
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-4 {
+    min-height: 709px;
+  }
+
+  .u-section-4 .u-image-1 {
+    height: 698px;
+    width: 540px;
+    margin-top: 0;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-4 {
+    min-height: 176px;
+  }
+
+  .u-section-4 .u-image-1 {
+    height: 439px;
+    width: 340px;
+  }
+} .u-section-5 {
+  background-image: url("images/TWCWEBSITEFA-07.png");
+  min-height: 1552px;
+  background-position: 50% 50%;
+}
+
+.u-section-5 .u-image-1 {
+  width: 1220px;
+  height: 1526px;
+  margin: 13px auto;
+}
+
+@media (max-width: 1199px) {
+   .u-section-5 {
+    min-height: 930px;
+  }
+
+  .u-section-5 .u-image-1 {
+    width: 940px;
+    height: 1176px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-5 {
+    min-height: 655px;
+  }
+
+  .u-section-5 .u-image-1 {
+    width: 720px;
+    height: 901px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-5 {
+    min-height: 430px;
+  }
+
+  .u-section-5 .u-image-1 {
+    width: 540px;
+    height: 676px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-5 {
+    min-height: 180px;
+  }
+
+  .u-section-5 .u-image-1 {
+    width: 340px;
+    height: 426px;
+  }
+} .u-section-6 {
+  background-image: url("images/TWCWEBSITEFA-08.png");
+  min-height: 100vh;
+  background-position: 50% 50%;
+}
+
+@media (max-width: 991px) {
+   .u-section-6 {
+    min-height: 802px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-6 {
+    min-height: 602px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-6 {
+    min-height: 379px;
+  }
+}.u-section-7 .u-sheet-1 {
+  min-height: 100vh;
+}
+
+.u-section-7 .u-image-1 {
+  width: 298px;
+  height: 298px;
+  margin: 57px 23px 0 auto;
+}
+
+.u-section-7 .u-image-2 {
+  width: 298px;
+  height: 298px;
+  margin: -297px auto 0 23px;
+}
+
+.u-section-7 .u-text-1 {
+  margin: -280px auto 0;
+}
+
+.u-section-7 .u-text-2 {
+  width: 241px;
+  margin: 186px auto 0;
+}
+
+.u-section-7 .u-text-3 {
+  font-weight: 400;
+  margin: 18px 0 0;
+}
+
+.u-section-7 .u-btn-1 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0px;
+  margin: 74px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-7 .u-image-2 {
+    margin-top: -298px;
+  }
+
+  .u-section-7 .u-text-2 {
+    margin-top: 179px;
+  }
+
+  .u-section-7 .u-text-3 {
+    margin-top: 23px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-7 .u-image-1 {
+    width: 134px;
+    height: 134px;
+    margin-top: 149px;
+    margin-right: auto;
+    margin-left: 519px;
+  }
+
+  .u-section-7 .u-image-2 {
+    width: 134px;
+    height: 134px;
+    margin-top: -134px;
+    margin-left: 32px;
+  }
+
+  .u-section-7 .u-text-1 {
+    width: auto;
+    margin-top: -238px;
+  }
+
+  .u-section-7 .u-text-2 {
+    margin-top: 79px;
+  }
+
+  .u-section-7 .u-text-3 {
+    width: auto;
+    margin-top: 122px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-7 .u-image-1 {
+    margin-top: 148px;
+    margin-right: 26px;
+    margin-left: auto;
+  }
+
+  .u-section-7 .u-image-2 {
+    margin-top: -133px;
+  }
+
+  .u-section-7 .u-text-1 {
+    margin-top: -252px;
+  }
+
+  .u-section-7 .u-text-2 {
+    margin-top: 92px;
+  }
+
+  .u-section-7 .u-text-3 {
+    margin-top: 81px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-7 .u-image-1 {
+    width: 96px;
+    height: 96px;
+    margin-top: 213px;
+    margin-right: 0;
+  }
+
+  .u-section-7 .u-image-2 {
+    width: 96px;
+    height: 96px;
+    margin-top: -96px;
+    margin-left: 0;
+  }
+
+  .u-section-7 .u-text-1 {
+    margin-top: -176px;
+  }
+
+  .u-section-7 .u-text-2 {
+    margin-top: 162px;
+  }
+
+  .u-section-7 .u-text-3 {
+    margin-top: 24px;
+  }
+
+  .u-section-7 .u-btn-1 {
+    margin-top: 47px;
+  }
+}
